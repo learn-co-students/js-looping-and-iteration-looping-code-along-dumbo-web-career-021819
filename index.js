@@ -20,5 +20,5 @@ function tailsNeverFails(){
       tailCount += 1;
     }
   }
-  return `You got ${tails} tails in a row!`;
+  return `You got ${tailCount} tails in a row!`;
 }
